@@ -1,6 +1,5 @@
 package boardgame;
 
-import javax.swing.text.Position;
 
 public class Piece {
 	
