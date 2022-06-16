@@ -45,7 +45,7 @@ public class Board {
 		pieces[position.getRow()][position.getColumn()] = piece;
 		piece.position = position;
 	}
-	//Méqtodo que testa se a posiçao existe pela linha e coluna
+	//Método que testa se a posiçao existe pela linha e coluna
 	private boolean positionExists(int row, int column) {
 		return row >= 0 && row < rows && column >= 0 && column < columns;
 	}
