@@ -4,7 +4,7 @@ Chess system system, with object orientation in Java
 
 # Tool used
 - Eclipse IDE
-- InteJ
+- IntelliJ
 
 # What was learned in this project:
 - Composition of objects
